@@ -17,38 +17,38 @@ const api = [
     },
     {
         "url": "DALL·E 2023-03-10 17.14.12 - soccer in miami.png",
-        "alt": "dog holding stick",
-        "category": "dog"
+        "alt": "soccer",
+        "category": "miami"
     },
     {
         "url": "DALL·E 2023-03-10 17.13.48 - Miami playing on a soccer field.png",
-        "alt": "sunflower",
-        "category": "flower"
+        "alt": "soccer",
+        "category": "miami soccer"
     },
     {
         "url": "DALL·E 2023-03-10 17.13.38 - Cuban Food.png",
-        "alt": "cat",
-        "category": "cat"
+        "alt": "food",
+        "category": "cuban foodt"
     },
     {
         "url": "DALL·E 2023-03-10 17.13.30 - basketball miami.png",
-        "alt": "cat",
-        "category": "cat"
+        "alt": "miami",
+        "category": "basketball"
     },
     {
         "url": "DALL·E 2023-03-10 17.13.15 - cuban coffee.png",
-        "alt": "pug",
-        "category": "dog"
+        "alt": "coffee",
+        "category": "Cuban Coffee"
     },
     {
         "url": "DALL·E 2023-03-10 17.13.05 - at the club cypberpunk feel.png",
-        "alt": "cow",
-        "category": "cow"
+        "alt": "Cyperpunk Club",
+        "category": "Club"
     },
     {
         "url": "DALL·E 2023-03-10 17.15.33 - Studying in Miami overseeing the skyline.png",
-        "alt": "cow",
-        "category": "cow"
+        "alt": "Miami",
+        "category": "Studying"
     }
 ]
 
